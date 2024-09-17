@@ -16,3 +16,14 @@ body {
     text-align: center;
     margin-bottom: 10px;
 }
+
+.student-info {
+    width: 100%;
+    margin-bottom: 20px;
+    border-collapse: collapse;
+}
+
+.student-info td {
+    border: 1px solid black;
+    padding: 5px;
+}
