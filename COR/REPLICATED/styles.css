@@ -16,3 +16,47 @@ body {
     text-align: center;
     margin-bottom: 10px;
 }
+
+.student-info, .fees-info {
+    width: 100%;
+    margin-bottom: 20px;
+    border-collapse: collapse;
+}
+
+.student-info td, .fees-info td {
+    border: 1px solid black;
+    padding: 5px;
+}
+
+.section-title {
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+table {
+    width: 100%;
+    margin-bottom: 20px;
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid black;
+    padding: 5px;
+}
+
+.assessed-fees {
+    margin-top: 20px;
+}
+
+.signature-section {
+    margin-top: 20px;
+}
+
+.signature-section .sign {
+    margin-top: 50px;
+}
+
+.notes {
+    font-size: 10px;
+    margin-top: 20px;
+}
