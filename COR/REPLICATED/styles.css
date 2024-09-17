@@ -27,3 +27,8 @@ body {
     border: 1px solid black;
     padding: 5px;
 }
+
+.section-title {
+    font-weight: bold;
+    margin-top: 20px;
+}
